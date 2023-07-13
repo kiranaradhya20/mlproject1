@@ -794,7 +794,7 @@ female,group A,associate's degree,standard,none,82,93,93
 male,group D,high school,standard,none,66,69,63
 female,group E,bachelor's degree,standard,completed,79,81,82
 male,group D,some college,standard,completed,63,55,63
-female,group D,master's degree,standard,none,87,100,100
+
 male,group C,bachelor's degree,standard,none,69,63,61
 female,group C,associate's degree,standard,none,53,62,53
 male,group C,some college,free/reduced,completed,50,48,53
